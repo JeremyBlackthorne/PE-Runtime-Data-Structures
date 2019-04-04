@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveLayerIndex</key>
+	<integer>0</integer>
+	<key>ApplicationVersion</key>
+	<array>
+		<string>com.omnigroup.OmniGrafflePro</string>
+		<string>139.18.0.187838</string>
+	</array>
+	<key>AutoAdjust</key>
+	<true/>
+	<key>BackgroundGraphic</key>
+	<dict>
+		<key>Bounds</key>
+		<string>{{0, 0}, {3688, 5348}}</string>
+		<key>Class</key>
+		<string>SolidGraphic</string>
+		<key>ID</key>
+		<integer>2</integer>
+		<key>Style</key>
+		<dict>
+			<key>fill</key>
+			<dict>
+				<key>FillType</key>
+				<integer>2</integer>
+				<key>GradientAngle</key>
+				<real>90</real>
+				<key>GradientColor</key>
+				<dict>
+					<key>w</key>
+					<string>0.666667</string>
+				</dict>
+				<key>MiddleFraction</key>
+				<real>0.59021580219268799</real>
+			</dict>
+			<key>shadow</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+			<key>stroke</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>BaseZoom</key>
+	<integer>0</integer>
+	<key>CanvasOrigin</key>
+	<string>{0, 0}</string>
+	<key>CanvasSize</key>
+	<string>{3688, 5348}</string>
+	<key>ColumnAlign</key>
+	<integer>1</integer>
+	<key>ColumnSpacing</key>
+	<real>36</real>
+	<key>CreationDate</key>
+	<string>2013-07-19 20:50:54 +0000</string>
+	<key>Creator</key>
+	<string>Malware</string>
+	<key>DisplayScale</key>
+	<string>1 0/72 in = 1 0/72 in</string>
+	<key>GraphDocumentVersion</key>
+	<integer>8</integer>
+	<key>GraphicsList</key>
+	<array>
+		<dict>
+			<key>Bounds</key>
+			<string>{{200.5, 1076}, {245, 128}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>91</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.84153</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.991234</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>89</integer>
+			<key>Points</key>
+			<array>
+				<string>{1083, 5006}</string>
+				<string>{1332, 4923}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>88</integer>
+			<key>OrthogonalBarAutomatic</key>
+			<true/>
+			<key>OrthogonalBarPoint</key>
+			<string>{0, 0}</string>
+			<key>OrthogonalBarPosition</key>
+			<real>-1</real>
+			<key>Points</key>
+			<array>
+				<string>{3548, 1901}</string>
+				<string>{3628, 1904}</string>
+				<string>{3583, 4336}</string>
+				<string>{1863, 4336}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>LineType</key>
+					<integer>2</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{170.5, 882}, {291, 128}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>84</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.970601</string>
+						<key>r</key>
+						<string>0.476019</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs31 \cf2 // find BeingDebugged
+\fs36 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
+\cf0 mov eax, dword ptr fs:[0x30\
+mov eax, [eax + 2]}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>83</integer>
+			<key>Points</key>
+			<array>
+				<string>{1840, 2026.881583054228}</string>
+				<string>{2081, 2404}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>GapRatio</key>
+					<real>0.5</real>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>16</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1730.5, 1863}, {205, 200}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>81</integer>
+			<key>Shape</key>
+			<string>AdjustableStar</string>
+			<key>ShapeData</key>
+			<dict/>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.0941176</string>
+						<key>g</key>
+						<string>0.917647</string>
+						<key>r</key>
+						<string>1</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs36 \cf0 \
+mov eax, fs:[0]
+\fs72 \
+}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextRelativeArea</key>
+			<string>{{0.13500000000000001, 0.115}, {0.75, 0.75}}</string>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>80</integer>
+			<key>Points</key>
+			<array>
+				<string>{2813.4590355951404, 2265.440791527114}</string>
+				<string>{3018, 2422}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>GapRatio</key>
+					<real>0.5</real>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>16</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2520, 2127.5}, {337, 164}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>79</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.970601</string>
+						<key>r</key>
+						<string>0.476019</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs31 \cf2 // Install custom SEH at 0x010061c0
+\fs36 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
+\cf0 push offset 0x010061c0\
+mov eax, dword ptr fs:[0]\
+push eax\
+mov fs[0], esp}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>78</integer>
+			<key>Points</key>
+			<array>
+				<string>{1630.6476342279529, 3126}</string>
+				<string>{1686, 2956}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>GapRatio</key>
+					<real>0.5</real>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>16</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1493, 3098}, {593.5, 218}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>77</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.970601</string>
+						<key>r</key>
+						<string>0.476019</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>3</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs31 \cf2 // find base addr of kernel32.dll\cf0 \
+  mov ebx, fs:[edx + 0x30]  ;ebx = ADDRESS of PEB\
+  mov ecx, [ebx + 0xc]      ;ecx = pointer to loader data\
+  mov ecx, [ecx + 0x1c]     ;ecx = first entry in initialization order list\
+  mov ecx, [ecx]            ;ecx = second entry in list (kernelab.dll)\
+  mov ecx, [ecx]            ;ecx = third entry in list (kernel32.dll)\
+  mov ebp, [ecx + 0x08]     ;ebp = base ADDRESS of kernel32.dll}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>76</integer>
+			<key>Points</key>
+			<array>
+				<string>{1622.9180711902809, 2295}</string>
+				<string>{1681.9180717468262, 2630}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>GapRatio</key>
+					<real>0.5</real>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>16</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>75</integer>
+			<key>Points</key>
+			<array>
+				<string>{1003.9069364097368, 2281}</string>
+				<string>{1053, 2420}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>GapRatio</key>
+					<real>0.5</real>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>16</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{862, 2162}, {337, 119}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>74</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.970601</string>
+						<key>r</key>
+						<string>0.476019</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs31 \cf2 // find BeingDebugged
+\fs36 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
+\cf0 mov eax, dword ptr fs:[0x30\
+mov eax, [eax + 2]}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1437.5, 2176}, {337, 119}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>73</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.970601</string>
+						<key>r</key>
+						<string>0.476019</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs31 \cf2 // PEB_LDR_DATA
+\fs36 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
+\cf0 mov eax, dword ptr fs:[0x30]\
+mov eax, [eax + 0xc]}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>72</integer>
+			<key>Points</key>
+			<array>
+				<string>{2017, 2744}</string>
+				<string>{2070, 2744}</string>
+				<string>{2070, 2934}</string>
+				<string>{2011, 2933}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1686, 2853}, {331, 164}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>71</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs48 \cf0 LDR_MODULE\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24   \
+   +0x000 InLoadOrder : LIST_ENTRY\
+   +0x008 InMemOrder  : LIST_ENTRY\
+
+\b    +0x010 InInitOrder : LIST_ENTRY\
+
+\b0    +0x018 DllBase     : uint32_t\
+   +0x01c EntryPoint  : uint32_t\
+   +0x01f Reserved    : uint32_t\
+   +0x024 FullDllName : UNICODE_STRING\
+   +0x02c BaseDllName : UNICODE_STRING}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>70</integer>
+			<key>Points</key>
+			<array>
+				<string>{1572, 2631}</string>
+				<string>{1686, 2646}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1686, 2614}, {331, 200}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>69</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs48 \cf0 PEB_LDR_DATA\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24    \
+   +0x000 Length           : Uint4B\
+   +0x004 Initialized      : UChar\
+   +0x008 SsHandle         : Ptr64 Void\
+   +0x010 InLoadOrderModuleList :            LIST_ENTRY\
+   +0x020 InMemoryOrderModuleList :       LIST_ENTRY\
+   
+\b +0x030 InInitializationOrderModuleList : LIST_ENTRY\
+
+\b0    +0x040 EntryInProgress  : Ptr64 Void\
+   +0x048 ShutdownInProgress : UChar\
+   +0x050 ShutdownThreadId : Ptr64 Void\
+}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowLabelDrop</key>
+			<false/>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>67</integer>
+			<key>Points</key>
+			<array>
+				<string>{1825, 2245}</string>
+				<string>{2094, 2445}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>a</key>
+						<string>0</string>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.507692</string>
+					</dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Group</string>
+			<key>Graphics</key>
+			<array>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>AllowToConnect</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>86</integer>
+					<key>Points</key>
+					<array>
+						<string>{236, 752.61248779296875}</string>
+						<string>{408, 726.9999885559082}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>Pattern</key>
+							<integer>1</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>4</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>AllowToConnect</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>87</integer>
+					<key>Points</key>
+					<array>
+						<string>{236, 771.61248779296875}</string>
+						<string>{404, 807.61248779296875}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>Pattern</key>
+							<integer>1</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>4</real>
+						</dict>
+					</dict>
+				</dict>
+			</array>
+			<key>ID</key>
+			<integer>85</integer>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowLabelDrop</key>
+			<false/>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>63</integer>
+			<key>Points</key>
+			<array>
+				<string>{225, 594}</string>
+				<string>{419, 595}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{164, 511}, {781, 845}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>61</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>FillType</key>
+					<integer>2</integer>
+					<key>GradientAngle</key>
+					<real>90</real>
+					<key>GradientColor</key>
+					<dict>
+						<key>w</key>
+						<string>0.666667</string>
+					</dict>
+					<key>MiddleFraction</key>
+					<real>0.819072425365448</real>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs96 \cf0                          \
+\
+                         
+\b Pointed to 
+\b0  \
+\
+\
+                        
+\b  Contained within\
+\
+                        \
+                         Shellcode\
+\
+                         \
+                         User space\
+\
+\
+\
+}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{748, 98}, {2188, 173}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>ID</key>
+			<integer>60</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\b\fs288 \cf0 PE Execution Data Structures}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>59</integer>
+			<key>Points</key>
+			<array>
+				<string>{2626, 796}</string>
+				<string>{3002, 540}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>58</integer>
+			<key>Points</key>
+			<array>
+				<string>{2626, 811}</string>
+				<string>{3018, 2228}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>57</integer>
+			<key>Points</key>
+			<array>
+				<string>{1577, 1660}</string>
+				<string>{2094, 780}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>56</integer>
+			<key>Points</key>
+			<array>
+				<string>{2105, 2555}</string>
+				<string>{1579, 2424}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>54</integer>
+			<key>Points</key>
+			<array>
+				<string>{2629, 2481}</string>
+				<string>{3028, 2595}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>53</integer>
+			<key>Points</key>
+			<array>
+				<string>{2629, 2468}</string>
+				<string>{3022, 2404}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>Head</key>
+			<dict>
+				<key>ID</key>
+				<integer>36</integer>
+			</dict>
+			<key>ID</key>
+			<integer>52</integer>
+			<key>OrthogonalBarAutomatic</key>
+			<true/>
+			<key>OrthogonalBarPoint</key>
+			<string>{0, 0}</string>
+			<key>OrthogonalBarPosition</key>
+			<real>-1</real>
+			<key>Points</key>
+			<array>
+				<string>{594, 2019}</string>
+				<string>{803.31408408675975, 4289.5021112331478}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>LineType</key>
+					<integer>2</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>48</integer>
+			<key>Points</key>
+			<array>
+				<string>{594, 1587}</string>
+				<string>{1046, 1549.5}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>41</integer>
+			<key>Points</key>
+			<array>
+				<string>{594, 2432}</string>
+				<string>{1046, 2432}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>AllowConnections</key>
+			<string>NO</string>
+			<key>AllowToConnect</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>40</integer>
+			<key>Points</key>
+			<array>
+				<string>{594, 1604}</string>
+				<string>{1046, 2069}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>Pattern</key>
+					<integer>1</integer>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>4</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1332, 4888}, {526, 188}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>39</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 CSR_THREAD\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24 \cf0    +0x000 CreateTime       : _LARGE_INTEGER\
+   +0x008 Link             : _LIST_ENTRY \
+   +0x018 HashLinks        : _LIST_ENTRY\
+   +0x028 ClientId         : _CLIENT_ID\
+   +0x038 Process          : \
+   +0x040 ThreadHandle     : \
+   +0x048 Flags            : \
+   +0x04c ReferenceCount   : \
+   +0x050 ImpersonateCount :}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1332, 4302}, {526, 407}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>38</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 W32THREAD\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24 \cf0    +0x000 pEThread         : Ptr64 _ETHREAD\
+   +0x008 RefCount         : Uint4B\
+   +0x010 ptlW32           : Ptr64 _TL\
+   +0x018 pgdiDcattr       : Ptr64 Void\
+   +0x020 pgdiBrushAttr    : Ptr64 Void\
+   +0x028 pUMPDObjs        : Ptr64 Void\
+   +0x030 pUMPDHeap        : Ptr64 Void\
+   +0x038 pUMPDObj         : Ptr64 Void\
+   +0x040 pProxyPort       : Ptr64 Void\
+   +0x048 pClientID        : Ptr64 Void\
+   +0x050 GdiTmpTgoList    : _LIST_ENTRY\
+   +0x060 pRBRecursionCount : Uint4B\
+   +0x064 pNonRBRecursionCount : Uint4B\
+   +0x068 tlSpriteState    : _TLSPRITESTATE\
+   +0x110 pSpriteState     : Ptr64 Void\
+   +0x118 pDevHTInfo       : Ptr64 Void\
+   +0x120 ulDevHTInfoUniqueness : Uint4B\
+   +0x128 pdcoAA           : Ptr64 Void\
+   +0x130 pdcoRender       : Ptr64 Void\
+   +0x138 pdcoSrc          : Ptr64 Void\
+   +0x140 bEnableEngUpdateDeviceSurface : UChar\
+   +0x141 bIncludeSprites  : UChar\
+   +0x144 ulWindowSystemRendering : Uint4B\
+   +0x148 iVisRgnUniqueness : Uint4B}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{557, 4892}, {526, 384}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>37</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 CSR_PROCESS\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24 \cf0    \
+   +0x000 ClientId         : _CLIENT_ID\
+   +0x010 ListLink         : _LIST_ENTRY \
+
+\b    +0x020 ThreadList       : _LIST_ENTRY 
+\b0 \
+   +0x030 NtSession        :  _CSR_NT_SESSION\
+   +0x038 ClientPort       : \
+   +0x040 ClientViewBase   :\
+   +0x048 ClientViewBounds : \
+   +0x050 ProcessHandle    :  \
+   +0x058 SequenceNumber   : \
+   +0x05c Flags            : \
+   +0x060 DebugFlags       : \
+   +0x064 ReferenceCount   : \
+   +0x068 ProcessGroupId   : \
+   +0x06c ProcessGroupSequence : \
+   +0x070 LastMessageSequence : \
+   +0x074 NumOutstandingMessages : \
+   +0x078 ShutdownLevel    : \
+   +0x07c ShutdownFlags    : \
+   +0x080 Luid             : _LUID\
+   +0x088 ServerDllPerProcessData :  }</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{557, 4290}, {526, 361}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>36</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 W32PROCESS\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\fs24    +0x000 Process          : Ptr64 _EPROCESS\
+   +0x008 RefCount         : Uint4B\
+   +0x00c W32PF_Flags      : Uint4B\
+   +0x010 InputIdleEvent   : Ptr64 _KEVENT\
+   +0x018 StartCursorHideTime : Uint4B\
+   +0x020 NextStart        : Ptr64 _W32PROCESS\
+   +0x028 pDCAttrList      : Ptr64 Void\
+   +0x030 pBrushAttrList   : Ptr64 Void\
+   +0x038 W32Pid           : Uint4B\
+   +0x03c GDIHandleCount   : Int4B\
+   +0x040 GDIHandleCountPeak : Uint4B\
+   +0x044 UserHandleCount  : Int4B\
+   +0x048 UserHandleCountPeak : Uint4B\
+   +0x050 GDIPushLock      : _EX_PUSH_LOCK\
+   +0x058 GDIEngUserMemAllocTable : _RTL_AVL_TABLE\
+   +0x0c0 GDIDcAttrFreeList : _LIST_ENTRY\
+   +0x0d0 GDIBrushAttrFreeList : _LIST_ENTRY\
+   +0x0e0 GDIW32PIDLockedBitmaps : _LIST_ENTRY\
+   +0x0f0 hSecureGdiSharedHandleTable : Ptr64 Void\
+   +0x0f8 DxProcess        : Ptr64 Void}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{3022, 2392}, {526, 194}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>29</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 TIB
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\
+   +0x000 ExceptionList    : Ptr32 _EXCEPTION_REGISTRATION_RECORD\
+   +0x004 StackBase        : Ptr32 Void\
+   +0x008 StackLimit       : Ptr32 Void\
+   +0x00c SubSystemTib     : Ptr32 Void\
+   +0x010 FiberData        : Ptr32 Void\
+   +0x010 Version          : Uint4B\
+   +0x014 ArbitraryUserPointer : Ptr32 Void\
+   +0x018 Self             : Ptr32 _NT_TIB}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2098, 2392}, {526, 1498}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>28</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 TEB
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\
+
+\b    +0x000 NtTib            : _NT_TIB
+\b0 \
+   +0x01c EnvironmentPointer : Ptr32 Void\
+   +0x020 ClientId         : _CLIENT_ID\
+   +0x028 ActiveRpcHandle  : Ptr32 Void\
+   +0x02c ThreadLocalStoragePointer : Ptr32 Void\
+
+\b    +0x030 ProcessEnvironmentBlock : Ptr32 _PEB
+\b0 \
+   +0x034 LastErrorValue   : Uint4B\
+   +0x038 CountOfOwnedCriticalSections : Uint4B\
+   +0x03c CsrClientThread  : Ptr32 Void\
+   +0x040 Win32ThreadInfo  : Ptr32 Void\
+   +0x044 User32Reserved   : [26] Uint4B\
+   +0x0ac UserReserved     : [5] Uint4B\
+   +0x0c0 WOW32Reserved    : Ptr32 Void\
+   +0x0c4 CurrentLocale    : Uint4B\
+   +0x0c8 FpSoftwareStatusRegister : Uint4B\
+   +0x0cc SystemReserved1  : [54] Ptr32 Void\
+   +0x1a4 ExceptionCode    : Int4B\
+   +0x1a8 ActivationContextStackPointer : Ptr32 _ACTIVATION_CONTEXT_STACK\
+   +0x1ac SpareBytes       : [36] UChar\
+   +0x1d0 TxFsContext      : Uint4B\
+   +0x1d4 GdiTebBatch      : _GDI_TEB_BATCH\
+   +0x6b4 RealClientId     : _CLIENT_ID\
+   +0x6bc GdiCachedProcessHandle : Ptr32 Void\
+   +0x6c0 GdiClientPID     : Uint4B\
+   +0x6c4 GdiClientTID     : Uint4B\
+   +0x6c8 GdiThreadLocalInfo : Ptr32 Void\
+   +0x6cc Win32ClientInfo  : [62] Uint4B\
+   +0x7c4 glDispatchTable  : [233] Ptr32 Void\
+   +0xb68 glReserved1      : [29] Uint4B\
+   +0xbdc glReserved2      : Ptr32 Void\
+   +0xbe0 glSectionInfo    : Ptr32 Void\
+   +0xbe4 glSection        : Ptr32 Void\
+   +0xbe8 glTable          : Ptr32 Void\
+   +0xbec glCurrentRC      : Ptr32 Void\
+   +0xbf0 glContext        : Ptr32 Void\
+   +0xbf4 LastStatusValue  : Uint4B\
+   +0xbf8 StaticUnicodeString : _UNICODE_STRING\
+   +0xc00 StaticUnicodeBuffer : [261] Wchar\
+   +0xe0c DeallocationStack : Ptr32 Void\
+   +0xe10 TlsSlots         : [64] Ptr32 Void\
+   +0xf10 TlsLinks         : _LIST_ENTRY\
+   +0xf18 Vdm              : Ptr32 Void\
+   +0xf1c ReservedForNtRpc : Ptr32 Void\
+   +0xf20 DbgSsReserved    : [2] Ptr32 Void\
+   +0xf28 HardErrorMode    : Uint4B\
+   +0xf2c Instrumentation  : [9] Ptr32 Void\
+   +0xf50 ActivityId       : _GUID\
+   +0xf60 SubProcessTag    : Ptr32 Void\
+   +0xf64 EtwLocalData     : Ptr32 Void\
+   +0xf68 EtwTraceData     : Ptr32 Void\
+   +0xf6c WinSockData      : Ptr32 Void\
+   +0xf70 GdiBatchCount    : Uint4B\
+   +0xf74 CurrentIdealProcessor : _PROCESSOR_NUMBER\
+   +0xf74 IdealProcessorValue : Uint4B\
+   +0xf74 ReservedPad0     : UChar\
+   +0xf75 ReservedPad1     : UChar\
+   +0xf76 ReservedPad2     : UChar\
+   +0xf77 IdealProcessor   : UChar\
+   +0xf78 GuaranteedStackBytes : Uint4B\
+   +0xf7c ReservedForPerf  : Ptr32 Void\
+   +0xf80 ReservedForOle   : Ptr32 Void\
+   +0xf84 WaitingOnLoaderLock : Uint4B\
+   +0xf88 SavedPriorityState : Ptr32 Void\
+   +0xf8c SoftPatchPtr1    : Uint4B\
+   +0xf90 ThreadPoolData   : Ptr32 Void\
+   +0xf94 TlsExpansionSlots : Ptr32 Ptr32 Void\
+   +0xf98 MuiGeneration    : Uint4B\
+   +0xf9c IsImpersonating  : Uint4B\
+   +0xfa0 NlsCache         : Ptr32 Void\
+   +0xfa4 pShimData        : Ptr32 Void\
+   +0xfa8 HeapVirtualAffinity : Uint4B\
+   +0xfac CurrentTransactionHandle : Ptr32 Void\
+   +0xfb0 ActiveFrame      : Ptr32 _TEB_ACTIVE_FRAME\
+   +0xfb4 FlsData          : Ptr32 Void\
+   +0xfb8 PreferredLanguages : Ptr32 Void\
+   +0xfbc UserPrefLanguages : Ptr32 Void\
+   +0xfc0 MergedPrefLanguages : Ptr32 Void\
+   +0xfc4 MuiImpersonation : Uint4B\
+   +0xfc8 CrossTebFlags    : Uint2B\
+   +0xfc8 SpareCrossTebBits : Pos 0, 16 Bits\
+   +0xfca SameTebFlags     : Uint2B\
+   +0xfca SafeThunkCall    : Pos 0, 1 Bit\
+   +0xfca InDebugPrint     : Pos 1, 1 Bit\
+   +0xfca HasFiberData     : Pos 2, 1 Bit\
+   +0xfca SkipThreadAttach : Pos 3, 1 Bit\
+   +0xfca WerInShipAssertCode : Pos 4, 1 Bit\
+   +0xfca RanProcessInit   : Pos 5, 1 Bit\
+   +0xfca ClonedThread     : Pos 6, 1 Bit\
+   +0xfca SuppressDebugMsg : Pos 7, 1 Bit\
+   +0xfca DisableUserStackWalk : Pos 8, 1 Bit\
+   +0xfca RtlExceptionAttached : Pos 9, 1 Bit\
+   +0xfca InitialThread    : Pos 10, 1 Bit\
+   +0xfca SpareSameTebBits : Pos 11, 5 Bits\
+   +0xfcc TxnScopeEnterCallback : Ptr32 Void\
+   +0xfd0 TxnScopeExitCallback : Ptr32 Void\
+   +0xfd4 TxnScopeContext  : Ptr32 Void\
+   +0xfd8 LockCount        : Uint4B\
+   +0xfdc SpareUlong0      : Uint4B\
+   +0xfe0 ResourceRetValue : Ptr32 Void}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{3022, 528}, {526, 1713}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>27</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs72 \cf0 Tcb : KTHREAD
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\
+   +0x000 Header           : _DISPATCHER_HEADER\
+   +0x010 CycleTime        : Uint8B\
+   +0x018 HighCycleTime    : Uint4B\
+   +0x020 QuantumTarget    : Uint8B\
+   +0x028 InitialStack     : Ptr32 Void\
+   +0x02c StackLimit       : Ptr32 Void\
+   +0x030 KernelStack      : Ptr32 Void\
+   +0x034 ThreadLock       : Uint4B\
+   +0x038 WaitRegister     : _KWAIT_STATUS_REGISTER\
+   +0x039 Running          : UChar\
+   +0x03a Alerted          : [2] UChar\
+   +0x03c KernelStackResident : Pos 0, 1 Bit\
+   +0x03c ReadyTransition  : Pos 1, 1 Bit\
+   +0x03c ProcessReadyQueue : Pos 2, 1 Bit\
+   +0x03c WaitNext         : Pos 3, 1 Bit\
+   +0x03c SystemAffinityActive : Pos 4, 1 Bit\
+   +0x03c Alertable        : Pos 5, 1 Bit\
+   +0x03c GdiFlushActive   : Pos 6, 1 Bit\
+   +0x03c UserStackWalkActive : Pos 7, 1 Bit\
+   +0x03c ApcInterruptRequest : Pos 8, 1 Bit\
+   +0x03c ForceDeferSchedule : Pos 9, 1 Bit\
+   +0x03c QuantumEndMigrate : Pos 10, 1 Bit\
+   +0x03c UmsDirectedSwitchEnable : Pos 11, 1 Bit\
+   +0x03c TimerActive      : Pos 12, 1 Bit\
+   +0x03c SystemThread     : Pos 13, 1 Bit\
+   +0x03c Reserved         : Pos 14, 18 Bits\
+   +0x03c MiscFlags        : Int4B\
+   +0x040 ApcState         : _KAPC_STATE\
+   +0x040 ApcStateFill     : [23] UChar\
+   +0x057 Priority         : Char\
+   +0x058 NextProcessor    : Uint4B\
+   +0x05c DeferredProcessor : Uint4B\
+   +0x060 ApcQueueLock     : Uint4B\
+   +0x064 ContextSwitches  : Uint4B\
+   +0x068 State            : UChar\
+   +0x069 NpxState         : Char\
+   +0x06a WaitIrql         : UChar\
+   +0x06b WaitMode         : Char\
+   +0x06c WaitStatus       : Int4B\
+   +0x070 WaitBlockList    : Ptr32 _KWAIT_BLOCK\
+   +0x074 WaitListEntry    : _LIST_ENTRY\
+   +0x074 SwapListEntry    : _SINGLE_LIST_ENTRY\
+   +0x07c Queue            : Ptr32 _KQUEUE\
+   +0x080 WaitTime         : Uint4B\
+   +0x084 KernelApcDisable : Int2B\
+   +0x086 SpecialApcDisable : Int2B\
+   +0x084 CombinedApcDisable : Uint4B\
+   +0x088 Teb              : Ptr32 Void\
+   +0x090 Timer            : _KTIMER\
+   +0x0b8 AutoAlignment    : Pos 0, 1 Bit\
+   +0x0b8 DisableBoost     : Pos 1, 1 Bit\
+   +0x0b8 EtwStackTraceApc1Inserted : Pos 2, 1 Bit\
+   +0x0b8 EtwStackTraceApc2Inserted : Pos 3, 1 Bit\
+   +0x0b8 CalloutActive    : Pos 4, 1 Bit\
+   +0x0b8 ApcQueueable     : Pos 5, 1 Bit\
+   +0x0b8 EnableStackSwap  : Pos 6, 1 Bit\
+   +0x0b8 GuiThread        : Pos 7, 1 Bit\
+   +0x0b8 UmsPerformingSyscall : Pos 8, 1 Bit\
+   +0x0b8 VdmSafe          : Pos 9, 1 Bit\
+   +0x0b8 UmsDispatched    : Pos 10, 1 Bit\
+   +0x0b8 ReservedFlags    : Pos 11, 21 Bits\
+   +0x0b8 ThreadFlags      : Int4B\
+   +0x0bc ServiceTable     : Ptr32 Void\
+   +0x0c0 WaitBlock        : [4] _KWAIT_BLOCK\
+   +0x120 QueueListEntry   : _LIST_ENTRY\
+   +0x128 TrapFrame        : Ptr32 _KTRAP_FRAME\
+   +0x12c FirstArgument    : Ptr32 Void\
+   +0x130 CallbackStack    : Ptr32 Void\
+   +0x130 CallbackDepth    : Uint4B\
+   +0x134 ApcStateIndex    : UChar\
+   +0x135 BasePriority     : Char\
+   +0x136 PriorityDecrement : Char\
+   +0x136 ForegroundBoost  : Pos 0, 4 Bits\
+   +0x136 UnusualBoost     : Pos 4, 4 Bits\
+   +0x137 Preempted        : UChar\
+   +0x138 AdjustReason     : UChar\
+   +0x139 AdjustIncrement  : Char\
+   +0x13a PreviousMode     : Char\
+   +0x13b Saturation       : Char\
+   +0x13c SystemCallNumber : Uint4B\
+   +0x140 FreezeCount      : Uint4B\
+   +0x144 UserAffinity     : _GROUP_AFFINITY\
+   +0x150 Process          : Ptr32 _KPROCESS\
+   +0x154 Affinity         : _GROUP_AFFINITY\
+   +0x160 IdealProcessor   : Uint4B\
+   +0x164 UserIdealProcessor : Uint4B\
+   +0x168 ApcStatePointer  : [2] Ptr32 _KAPC_STATE\
+   +0x170 SavedApcState    : _KAPC_STATE\
+   +0x170 SavedApcStateFill : [23] UChar\
+   +0x187 WaitReason       : UChar\
+   +0x188 SuspendCount     : Char\
+   +0x189 Spare1           : Char\
+   +0x18a OtherPlatformFill : UChar\
+
+\b    +0x18c Win32Thread      : Ptr32 Void
+\b0 \
+   +0x190 StackBase        : Ptr32 Void\
+   +0x194 SuspendApc       : _KAPC\
+   +0x194 SuspendApcFill0  : [1] UChar\
+   +0x195 ResourceIndex    : UChar\
+   +0x194 SuspendApcFill1  : [3] UChar\
+   +0x197 QuantumReset     : UChar\
+   +0x194 SuspendApcFill2  : [4] UChar\
+   +0x198 KernelTime       : Uint4B\
+   +0x194 SuspendApcFill3  : [36] UChar\
+   +0x1b8 WaitPrcb         : Ptr32 _KPRCB\
+   +0x194 SuspendApcFill4  : [40] UChar\
+   +0x1bc LegoData         : Ptr32 Void\
+   +0x194 SuspendApcFill5  : [47] UChar\
+   +0x1c3 LargeStack       : UChar\
+   +0x1c4 UserTime         : Uint4B\
+   +0x1c8 SuspendSemaphore : _KSEMAPHORE\
+   +0x1c8 SuspendSemaphorefill : [20] UChar\
+   +0x1dc SListFaultCount  : Uint4B\
+   +0x1e0 ThreadListEntry  : _LIST_ENTRY\
+   +0x1e8 MutantListHead   : _LIST_ENTRY\
+   +0x1f0 SListFaultAddress : Ptr32 Void\
+   +0x1f4 ThreadCounters   : Ptr32 _KTHREAD_COUNTERS\
+   +0x1f8 XStateSave       : Ptr32 _XSTATE_SAVE}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2094, 727}, {526, 1342}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>26</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0  
+\fs72 ETHREAD
+\fs24   \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\
+
+\b    +0x000 Tcb              : _KTHREAD
+\b0 \
+   +0x200 CreateTime       : _LARGE_INTEGER\
+   +0x208 ExitTime         : _LARGE_INTEGER\
+   +0x208 KeyedWaitChain   : _LIST_ENTRY\
+   +0x210 ExitStatus       : Int4B\
+   +0x214 PostBlockList    : _LIST_ENTRY\
+   +0x214 ForwardLinkShadow : Ptr32 Void\
+   +0x218 StartAddress     : Ptr32 Void\
+   +0x21c TerminationPort  : Ptr32 _TERMINATION_PORT\
+   +0x21c ReaperLink       : Ptr32 _ETHREAD\
+   +0x21c KeyedWaitValue   : Ptr32 Void\
+   +0x220 ActiveTimerListLock : Uint4B\
+   +0x224 ActiveTimerListHead : _LIST_ENTRY\
+   +0x22c Cid              : _CLIENT_ID\
+   +0x234 KeyedWaitSemaphore : _KSEMAPHORE\
+   +0x234 AlpcWaitSemaphore : _KSEMAPHORE\
+   +0x248 ClientSecurity   : _PS_CLIENT_SECURITY_CONTEXT\
+   +0x24c IrpList          : _LIST_ENTRY\
+   +0x254 TopLevelIrp      : Uint4B\
+   +0x258 DeviceToVerify   : Ptr32 _DEVICE_OBJECT\
+   +0x25c CpuQuotaApc      : Ptr32 _PSP_CPU_QUOTA_APC\
+   +0x260 Win32StartAddress : Ptr32 Void\
+   +0x264 LegacyPowerObject : Ptr32 Void\
+   +0x268 ThreadListEntry  : _LIST_ENTRY\
+   +0x270 RundownProtect   : _EX_RUNDOWN_REF\
+   +0x274 ThreadLock       : _EX_PUSH_LOCK\
+   +0x278 ReadClusterSize  : Uint4B\
+   +0x27c MmLockOrdering   : Int4B\
+   +0x280 CrossThreadFlags : Uint4B\
+   +0x280 Terminated       : Pos 0, 1 Bit\
+   +0x280 ThreadInserted   : Pos 1, 1 Bit\
+   +0x280 HideFromDebugger : Pos 2, 1 Bit\
+   +0x280 ActiveImpersonationInfo : Pos 3, 1 Bit\
+   +0x280 Reserved         : Pos 4, 1 Bit\
+   +0x280 HardErrorsAreDisabled : Pos 5, 1 Bit\
+   +0x280 BreakOnTermination : Pos 6, 1 Bit\
+   +0x280 SkipCreationMsg  : Pos 7, 1 Bit\
+   +0x280 SkipTerminationMsg : Pos 8, 1 Bit\
+   +0x280 CopyTokenOnOpen  : Pos 9, 1 Bit\
+   +0x280 ThreadIoPriority : Pos 10, 3 Bits\
+   +0x280 ThreadPagePriority : Pos 13, 3 Bits\
+   +0x280 RundownFail      : Pos 16, 1 Bit\
+   +0x280 NeedsWorkingSetAging : Pos 17, 1 Bit\
+   +0x284 SameThreadPassiveFlags : Uint4B\
+   +0x284 ActiveExWorker   : Pos 0, 1 Bit\
+   +0x284 ExWorkerCanWaitUser : Pos 1, 1 Bit\
+   +0x284 MemoryMaker      : Pos 2, 1 Bit\
+   +0x284 ClonedThread     : Pos 3, 1 Bit\
+   +0x284 KeyedEventInUse  : Pos 4, 1 Bit\
+   +0x284 RateApcState     : Pos 5, 2 Bits\
+   +0x284 SelfTerminate    : Pos 7, 1 Bit\
+   +0x288 SameThreadApcFlags : Uint4B\
+   +0x288 Spare            : Pos 0, 1 Bit\
+   +0x288 StartAddressInvalid : Pos 1, 1 Bit\
+   +0x288 EtwPageFaultCalloutActive : Pos 2, 1 Bit\
+   +0x288 OwnsProcessWorkingSetExclusive : Pos 3, 1 Bit\
+   +0x288 OwnsProcessWorkingSetShared : Pos 4, 1 Bit\
+   +0x288 OwnsSystemCacheWorkingSetExclusive : Pos 5, 1 Bit\
+   +0x288 OwnsSystemCacheWorkingSetShared : Pos 6, 1 Bit\
+   +0x288 OwnsSessionWorkingSetExclusive : Pos 7, 1 Bit\
+   +0x289 OwnsSessionWorkingSetShared : Pos 0, 1 Bit\
+   +0x289 OwnsProcessAddressSpaceExclusive : Pos 1, 1 Bit\
+   +0x289 OwnsProcessAddressSpaceShared : Pos 2, 1 Bit\
+   +0x289 SuppressSymbolLoad : Pos 3, 1 Bit\
+   +0x289 Prefetching      : Pos 4, 1 Bit\
+   +0x289 OwnsDynamicMemoryShared : Pos 5, 1 Bit\
+   +0x289 OwnsChangeControlAreaExclusive : Pos 6, 1 Bit\
+   +0x289 OwnsChangeControlAreaShared : Pos 7, 1 Bit\
+   +0x28a OwnsPagedPoolWorkingSetExclusive : Pos 0, 1 Bit\
+   +0x28a OwnsPagedPoolWorkingSetShared : Pos 1, 1 Bit\
+   +0x28a OwnsSystemPtesWorkingSetExclusive : Pos 2, 1 Bit\
+   +0x28a OwnsSystemPtesWorkingSetShared : Pos 3, 1 Bit\
+   +0x28a TrimTrigger      : Pos 4, 2 Bits\
+   +0x28a Spare1           : Pos 6, 2 Bits\
+   +0x28b PriorityRegionActive : UChar\
+   +0x28c CacheManagerActive : UChar\
+   +0x28d DisablePageFaultClustering : UChar\
+   +0x28e ActiveFaultCount : UChar\
+   +0x28f LockOrderState   : UChar\
+   +0x290 AlpcMessageId    : Uint4B\
+   +0x294 AlpcMessage      : Ptr32 Void\
+   +0x294 AlpcReceiveAttributeSet : Uint4B\
+   +0x298 AlpcWaitListEntry : _LIST_ENTRY\
+   +0x2a0 CacheManagerCount : Uint4B\
+   +0x2a4 IoBoostCount     : Uint4B\
+   +0x2a8 IrpListLock      : Uint4B\
+   +0x2ac ReservedForSynchTracking : Ptr32 Void\
+   +0x2b0 CmCallbackListHead : _SINGLE_LIST_ENTRY}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1046, 2381}, {526, 1372}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>25</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0    
+\fs72 PEB
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\
+   +0x000 InheritedAddressSpace : UChar\
+   +0x001 ReadImageFileExecOptions : UChar\
+   +0x002 BeingDebugged    : UChar\
+   +0x003 BitField         : UChar\
+   +0x003 ImageUsesLargePages : Pos 0, 1 Bit\
+   +0x003 IsProtectedProcess : Pos 1, 1 Bit\
+   +0x003 IsLegacyProcess  : Pos 2, 1 Bit\
+   +0x003 IsImageDynamicallyRelocated : Pos 3, 1 Bit\
+   +0x003 SkipPatchingUser32Forwarders : Pos 4, 1 Bit\
+   +0x003 SpareBits        : Pos 5, 3 Bits\
+   +0x004 Mutant           : Ptr32 Void\
+   +0x008 ImageBaseAddress : Ptr32 Void\
+  \cf2  
+\b +0x00c Ldr              : Ptr32 _PEB_LDR_DATA\cf0 \
+
+\b0    +0x010 ProcessParameters : Ptr32 _RTL_USER_PROCESS_PARAMETERS\
+   +0x014 SubSystemData    : Ptr32 Void\
+   +0x018 ProcessHeap      : Ptr32 Void\
+   +0x01c FastPebLock      : Ptr32 _RTL_CRITICAL_SECTION\
+   +0x020 AtlThunkSListPtr : Ptr32 Void\
+   +0x024 IFEOKey          : Ptr32 Void\
+   +0x028 CrossProcessFlags : Uint4B\
+   +0x028 ProcessInJob     : Pos 0, 1 Bit\
+   +0x028 ProcessInitializing : Pos 1, 1 Bit\
+   +0x028 ProcessUsingVEH  : Pos 2, 1 Bit\
+   +0x028 ProcessUsingVCH  : Pos 3, 1 Bit\
+   +0x028 ProcessUsingFTH  : Pos 4, 1 Bit\
+   +0x028 ReservedBits0    : Pos 5, 27 Bits\
+   +0x02c KernelCallbackTable : Ptr32 Void\
+   +0x02c UserSharedInfoPtr : Ptr32 Void\
+   +0x030 SystemReserved   : [1] Uint4B\
+   +0x034 AtlThunkSListPtr32 : Uint4B\
+   +0x038 ApiSetMap        : Ptr32 Void\
+   +0x03c TlsExpansionCounter : Uint4B\
+   +0x040 TlsBitmap        : Ptr32 Void\
+   +0x044 TlsBitmapBits    : [2] Uint4B\
+   +0x04c ReadOnlySharedMemoryBase : Ptr32 Void\
+   +0x050 HotpatchInformation : Ptr32 Void\
+   +0x054 ReadOnlyStaticServerData : Ptr32 Ptr32 Void\
+   +0x058 AnsiCodePageData : Ptr32 Void\
+   +0x05c OemCodePageData  : Ptr32 Void\
+   +0x060 UnicodeCaseTableData : Ptr32 Void\
+   +0x064 NumberOfProcessors : Uint4B\
+   +0x068 NtGlobalFlag     : Uint4B\
+   +0x070 CriticalSectionTimeout : _LARGE_INTEGER\
+   +0x078 HeapSegmentReserve : Uint4B\
+   +0x07c HeapSegmentCommit : Uint4B\
+   +0x080 HeapDeCommitTotalFreeThreshold : Uint4B\
+   +0x084 HeapDeCommitFreeBlockThreshold : Uint4B\
+   +0x088 NumberOfHeaps    : Uint4B\
+   +0x08c MaximumNumberOfHeaps : Uint4B\
+   +0x090 ProcessHeaps     : Ptr32 Ptr32 Void\
+   +0x094 GdiSharedHandleTable : Ptr32 Void\
+   +0x098 ProcessStarterHelper : Ptr32 Void\
+   +0x09c GdiDCAttributeList : Uint4B\
+   +0x0a0 LoaderLock       : Ptr32 _RTL_CRITICAL_SECTION\
+   +0x0a4 OSMajorVersion   : Uint4B\
+   +0x0a8 OSMinorVersion   : Uint4B\
+   +0x0ac OSBuildNumber    : Uint2B\
+   +0x0ae OSCSDVersion     : Uint2B\
+   +0x0b0 OSPlatformId     : Uint4B\
+   +0x0b4 ImageSubsystem   : Uint4B\
+   +0x0b8 ImageSubsystemMajorVersion : Uint4B\
+   +0x0bc ImageSubsystemMinorVersion : Uint4B\
+   +0x0c0 ActiveProcessAffinityMask : Uint4B\
+   +0x0c4 GdiHandleBuffer  : [34] Uint4B\
+   +0x14c PostProcessInitRoutine : Ptr32     void \
+   +0x150 TlsExpansionBitmap : Ptr32 Void\
+   +0x154 TlsExpansionBitmapBits : [32] Uint4B\
+   +0x1d4 SessionId        : Uint4B\
+   +0x1d8 AppCompatFlags   : _ULARGE_INTEGER\
+   +0x1e0 AppCompatFlagsUser : _ULARGE_INTEGER\
+   +0x1e8 pShimData        : Ptr32 Void\
+   +0x1ec AppCompatInfo    : Ptr32 Void\
+   +0x1f0 CSDVersion       : _UNICODE_STRING\
+   +0x1f8 ActivationContextData : Ptr32 _ACTIVATION_CONTEXT_DATA\
+   +0x1fc ProcessAssemblyStorageMap : Ptr32 _ASSEMBLY_STORAGE_MAP\
+   +0x200 SystemDefaultActivationContextData : Ptr32 _ACTIVATION_CONTEXT_DATA\
+   +0x204 SystemAssemblyStorageMap : Ptr32 _ASSEMBLY_STORAGE_MAP\
+   +0x208 MinimumStackCommit : Uint4B\
+   +0x20c FlsCallback      : Ptr32 _FLS_CALLBACK_INFO\
+   +0x210 FlsListHead      : _LIST_ENTRY\
+   +0x218 FlsBitmap        : Ptr32 Void\
+   +0x21c FlsBitmapBits    : [4] Uint4B\
+   +0x22c FlsHighIndex     : Uint4B\
+   +0x230 WerRegistrationData : Ptr32 Void\
+   +0x234 WerShipAssertPtr : Ptr32 Void\
+   +0x238 pContextData     : Ptr32 Void\
+   +0x23c pImageHeaderHash : Ptr32 Void\
+   +0x240 TracingFlags     : Uint4B\
+   +0x240 HeapTracingEnabled : Pos 0, 1 Bit\
+   +0x240 CritSecTracingEnabled : Pos 1, 1 Bit\
+   +0x240 SpareTracingBits : Pos 2, 30 Bits}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{1046, 1522}, {526, 547}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>22</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \
+   \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\fs72 Pcb : KPROCESS
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+   \
+   +0x000 Header           : _DISPATCHER_HEADER\
+   +0x010 ProfileListHead  : _LIST_ENTRY\
+   +0x018 DirectoryTableBase : Uint4B\
+   +0x01c LdtDescriptor    : _KGDTENTRY\
+   +0x024 Int21Descriptor  : _KIDTENTRY\
+   +0x02c ThreadListHead   : _LIST_ENTRY\
+   +0x034 ProcessLock      : Uint4B\
+   +0x038 Affinity         : _KAFFINITY_EX\
+   +0x050 ReadyListHead    : _LIST_ENTRY\
+   +0x058 SwapListEntry    : _SINGLE_LIST_ENTRY\
+   +0x05c ActiveProcessors : _KAFFINITY_EX\
+   +0x074 AutoAlignment    : Pos 0, 1 Bit\
+   +0x074 DisableBoost     : Pos 1, 1 Bit\
+   +0x074 DisableQuantum   : Pos 2, 1 Bit\
+   +0x074 ActiveGroupsMask : Pos 3, 4 Bits\
+   +0x074 ReservedFlags    : Pos 7, 25 Bits\
+   +0x074 ProcessFlags     : Int4B\
+   +0x078 BasePriority     : Char\
+   +0x079 QuantumReset     : Char\
+   +0x07a Visited          : UChar\
+   +0x07b Unused3          : UChar\
+   +0x07c ThreadSeed       : [4] Uint4B\
+   +0x08c IdealNode        : [4] Uint2B\
+   +0x094 IdealGlobalNode  : Uint2B\
+   +0x096 Flags            : _KEXECUTE_OPTIONS\
+   +0x097 Unused1          : UChar\
+   +0x098 IopmOffset       : Uint2B\
+   +0x09c Unused4          : Uint4B\
+   +0x0a0 StackCount       : _KSTACK_COUNT\
+   +0x0a4 ProcessListEntry : _LIST_ENTRY\
+   +0x0b0 CycleTime        : Uint8B\
+   +0x0b8 KernelTime       : Uint4B\
+   +0x0bc UserTime         : Uint4B\
+   +0x0c0 VdmTrapcHandler  : Ptr32 Void\
+}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{60, 1537}, {526, 1945}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>1</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.999878</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.99991</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0    \
+
+\fs72 EPROCESS\
+
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\b    +0x000 Pcb              : _KPROCESS
+\b0 \
+   +0x0c8 ProcessLock      : _EX_PUSH_LOCK\
+   +0x0d0 CreateTime       : _LARGE_INTEGER\
+   +0x0d8 ExitTime         : _LARGE_INTEGER\
+   +0x0e0 RundownProtect   : _EX_RUNDOWN_REF\
+   +0x0e4 UniqueProcessId  : Ptr32 Void\
+   +0x0e8 ActiveProcessLinks : _LIST_ENTRY\
+   +0x0f0 ProcessQuotaUsage : [2] Uint4B\
+   +0x0f8 ProcessQuotaPeak : [2] Uint4B\
+   +0x100 CommitCharge     : Uint4B\
+   +0x104 QuotaBlock       : Ptr32 _EPROCESS_QUOTA_BLOCK\
+   +0x108 CpuQuotaBlock    : Ptr32 _PS_CPU_QUOTA_BLOCK\
+   +0x10c PeakVirtualSize  : Uint4B\
+   +0x110 VirtualSize      : Uint4B\
+   +0x114 SessionProcessLinks : _LIST_ENTRY\
+   +0x11c DebugPort        : Ptr32 Void\
+   +0x120 ExceptionPortData : Ptr32 Void\
+   +0x120 ExceptionPortValue : Uint4B\
+   +0x120 ExceptionPortState : Pos 0, 3 Bits\
+   +0x124 ObjectTable      : Ptr32 _HANDLE_TABLE\
+   +0x128 Token            : _EX_FAST_REF\
+   +0x12c WorkingSetPage   : Uint4B\
+   +0x130 AddressCreationLock : _EX_PUSH_LOCK\
+   +0x134 RotateInProgress : Ptr32 _ETHREAD\
+   +0x138 ForkInProgress   : Ptr32 _ETHREAD\
+   +0x13c HardwareTrigger  : Uint4B\
+   +0x140 PhysicalVadRoot  : Ptr32 _MM_AVL_TABLE\
+   +0x144 CloneRoot        : Ptr32 Void\
+   +0x148 NumberOfPrivatePages : Uint4B\
+   +0x14c NumberOfLockedPages : Uint4B\
+  
+\b  +0x150 Win32Process     : Ptr32 Void
+\b0 \
+   +0x154 Job              : Ptr32 _EJOB\
+   +0x158 SectionObject    : Ptr32 Void\
+   +0x15c SectionBaseAddress : Ptr32 Void\
+   +0x160 Cookie           : Uint4B\
+   +0x164 Spare8           : Uint4B\
+   +0x168 WorkingSetWatch  : Ptr32 _PAGEFAULT_HISTORY\
+   +0x16c Win32WindowStation : Ptr32 Void\
+   +0x170 InheritedFromUniqueProcessId : Ptr32 Void\
+   +0x174 LdtInformation   : Ptr32 Void\
+   +0x178 VdmObjects       : Ptr32 Void\
+   +0x17c ConsoleHostProcess : Uint4B\
+   +0x180 DeviceMap        : Ptr32 Void\
+   +0x184 EtwDataSource    : Ptr32 Void\
+   +0x188 FreeTebHint      : Ptr32 Void\
+   +0x190 PageDirectoryPte : _HARDWARE_PTE_X86\
+   +0x190 Filler           : Uint8B\
+   +0x198 Session          : Ptr32 Void\
+   +0x19c ImageFileName    : [15] UChar\
+   +0x1ab PriorityClass    : UChar\
+   +0x1ac JobLinks         : _LIST_ENTRY\
+   +0x1b4 LockedPagesList  : Ptr32 Void\
+   +0x1b8 ThreadListHead   : _LIST_ENTRY\
+   +0x1c0 SecurityPort     : Ptr32 Void\
+   +0x1c4 PaeTop           : Ptr32 Void\
+   +0x1c8 ActiveThreads    : Uint4B\
+   +0x1cc ImagePathHash    : Uint4B\
+   +0x1d0 DefaultHardErrorProcessing : Uint4B\
+   +0x1d4 LastThreadExitStatus : Int4B\
+ 
+\b   +0x1d8 Peb              : Ptr32 _PEB
+\b0 \
+   +0x1dc PrefetchTrace    : _EX_FAST_REF\
+   +0x1e0 ReadOperationCount : _LARGE_INTEGER\
+   +0x1e8 WriteOperationCount : _LARGE_INTEGER\
+   +0x1f0 OtherOperationCount : _LARGE_INTEGER\
+   +0x1f8 ReadTransferCount : _LARGE_INTEGER\
+   +0x200 WriteTransferCount : _LARGE_INTEGER\
+   +0x208 OtherTransferCount : _LARGE_INTEGER\
+   +0x210 CommitChargeLimit : Uint4B\
+   +0x214 CommitChargePeak : Uint4B\
+   +0x218 AweInfo          : Ptr32 Void\
+   +0x21c SeAuditProcessCreationInfo : _SE_AUDIT_PROCESS_CREATION_INFO\
+   +0x220 Vm               : _MMSUPPORT\
+   +0x28c MmProcessLinks   : _LIST_ENTRY\
+   +0x294 HighestUserAddress : Ptr32 Void\
+   +0x298 ModifiedPageCount : Uint4B\
+   +0x29c Flags2           : Uint4B\
+   +0x29c JobNotReallyActive : Pos 0, 1 Bit\
+   +0x29c AccountingFolded : Pos 1, 1 Bit\
+   +0x29c NewProcessReported : Pos 2, 1 Bit\
+   +0x29c ExitProcessReported : Pos 3, 1 Bit\
+   +0x29c ReportCommitChanges : Pos 4, 1 Bit\
+   +0x29c LastReportMemory : Pos 5, 1 Bit\
+   +0x29c ReportPhysicalPageChanges : Pos 6, 1 Bit\
+   +0x29c HandleTableRundown : Pos 7, 1 Bit\
+   +0x29c NeedsHandleRundown : Pos 8, 1 Bit\
+   +0x29c RefTraceEnabled  : Pos 9, 1 Bit\
+   +0x29c NumaAware        : Pos 10, 1 Bit\
+   +0x29c ProtectedProcess : Pos 11, 1 Bit\
+   +0x29c DefaultPagePriority : Pos 12, 3 Bits\
+   +0x29c PrimaryTokenFrozen : Pos 15, 1 Bit\
+   +0x29c ProcessVerifierTarget : Pos 16, 1 Bit\
+   +0x29c StackRandomizationDisabled : Pos 17, 1 Bit\
+   +0x29c AffinityPermanent : Pos 18, 1 Bit\
+   +0x29c AffinityUpdateEnable : Pos 19, 1 Bit\
+   +0x29c PropagateNode    : Pos 20, 1 Bit\
+   +0x29c ExplicitAffinity : Pos 21, 1 Bit\
+   +0x2a0 Flags            : Uint4B\
+   +0x2a0 CreateReported   : Pos 0, 1 Bit\
+   +0x2a0 NoDebugInherit   : Pos 1, 1 Bit\
+   +0x2a0 ProcessExiting   : Pos 2, 1 Bit\
+   +0x2a0 ProcessDelete    : Pos 3, 1 Bit\
+   +0x2a0 Wow64SplitPages  : Pos 4, 1 Bit\
+   +0x2a0 VmDeleted        : Pos 5, 1 Bit\
+   +0x2a0 OutswapEnabled   : Pos 6, 1 Bit\
+   +0x2a0 Outswapped       : Pos 7, 1 Bit\
+   +0x2a0 ForkFailed       : Pos 8, 1 Bit\
+   +0x2a0 Wow64VaSpace4Gb  : Pos 9, 1 Bit\
+   +0x2a0 AddressSpaceInitialized : Pos 10, 2 Bits\
+   +0x2a0 SetTimerResolution : Pos 12, 1 Bit\
+   +0x2a0 BreakOnTermination : Pos 13, 1 Bit\
+   +0x2a0 DeprioritizeViews : Pos 14, 1 Bit\
+   +0x2a0 WriteWatch       : Pos 15, 1 Bit\
+   +0x2a0 ProcessInSession : Pos 16, 1 Bit\
+   +0x2a0 OverrideAddressSpace : Pos 17, 1 Bit\
+   +0x2a0 HasAddressSpace  : Pos 18, 1 Bit\
+   +0x2a0 LaunchPrefetched : Pos 19, 1 Bit\
+   +0x2a0 InjectInpageErrors : Pos 20, 1 Bit\
+   +0x2a0 VmTopDown        : Pos 21, 1 Bit\
+   +0x2a0 ImageNotifyDone  : Pos 22, 1 Bit\
+   +0x2a0 PdeUpdateNeeded  : Pos 23, 1 Bit\
+   +0x2a0 VdmAllowed       : Pos 24, 1 Bit\
+   +0x2a0 CrossSessionCreate : Pos 25, 1 Bit\
+   +0x2a0 ProcessInserted  : Pos 26, 1 Bit\
+   +0x2a0 DefaultIoPriority : Pos 27, 3 Bits\
+   +0x2a0 ProcessSelfDelete : Pos 30, 1 Bit\
+   +0x2a0 SetTimerResolutionLink : Pos 31, 1 Bit\
+   +0x2a4 ExitStatus       : Int4B\
+   +0x2a8 VadRoot          : _MM_AVL_TABLE\
+   +0x2c8 AlpcContext      : _ALPC_PROCESS_CONTEXT\
+   +0x2d8 TimerResolutionLink : _LIST_ENTRY\
+   +0x2e0 RequestedTimerResolution : Uint4B\
+   +0x2e4 ActiveThreadsHighWatermark : Uint4B\
+   +0x2e8 SmallestTimerResolution : Uint4B\
+   +0x2ec TimerResolutionStackRecord : Ptr32 _PO_DIAG_STACK_RECORD\
+}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{878, 2308}, {2712, 1915}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>90</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.84153</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.991234</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>GridInfo</key>
+	<dict>
+		<key>DrawMajorGrid</key>
+		<string>NO</string>
+	</dict>
+	<key>GuidesLocked</key>
+	<string>NO</string>
+	<key>GuidesVisible</key>
+	<string>YES</string>
+	<key>HPages</key>
+	<integer>7</integer>
+	<key>ImageCounter</key>
+	<integer>1</integer>
+	<key>KeepToScale</key>
+	<false/>
+	<key>Layers</key>
+	<array>
+		<dict>
+			<key>Lock</key>
+			<string>NO</string>
+			<key>Name</key>
+			<string>Layer 1</string>
+			<key>Print</key>
+			<string>YES</string>
+			<key>View</key>
+			<string>YES</string>
+		</dict>
+	</array>
+	<key>LayoutInfo</key>
+	<dict>
+		<key>Animate</key>
+		<string>NO</string>
+		<key>circoMinDist</key>
+		<real>18</real>
+		<key>circoSeparation</key>
+		<real>0.0</real>
+		<key>layoutEngine</key>
+		<string>dot</string>
+		<key>neatoSeparation</key>
+		<real>0.0</real>
+		<key>twopiSeparation</key>
+		<real>0.0</real>
+	</dict>
+	<key>LinksVisible</key>
+	<string>NO</string>
+	<key>MagnetsVisible</key>
+	<string>NO</string>
+	<key>MasterSheets</key>
+	<array/>
+	<key>ModificationDate</key>
+	<string>2013-07-22 19:43:29 +0000</string>
+	<key>Modifier</key>
+	<string>Malware</string>
+	<key>NotesVisible</key>
+	<string>NO</string>
+	<key>Orientation</key>
+	<integer>2</integer>
+	<key>OriginVisible</key>
+	<string>NO</string>
+	<key>PageBreaks</key>
+	<string>NO</string>
+	<key>PrintInfo</key>
+	<dict>
+		<key>NSBottomMargin</key>
+		<array>
+			<string>float</string>
+			<string>41</string>
+		</array>
+		<key>NSHorizonalPagination</key>
+		<array>
+			<string>coded</string>
+			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAFxlwCG</string>
+		</array>
+		<key>NSLeftMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSPaperSize</key>
+		<array>
+			<string>size</string>
+			<string>{612, 792}</string>
+		</array>
+		<key>NSPrintReverseOrientation</key>
+		<array>
+			<string>int</string>
+			<string>0</string>
+		</array>
+		<key>NSRightMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSTopMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+	</dict>
+	<key>PrintOnePage</key>
+	<false/>
+	<key>ReadOnly</key>
+	<string>NO</string>
+	<key>RowAlign</key>
+	<integer>1</integer>
+	<key>RowSpacing</key>
+	<real>36</real>
+	<key>SheetTitle</key>
+	<string>Canvas 1</string>
+	<key>SmartAlignmentGuidesActive</key>
+	<string>YES</string>
+	<key>SmartDistanceGuidesActive</key>
+	<string>YES</string>
+	<key>UniqueID</key>
+	<integer>1</integer>
+	<key>UseEntirePage</key>
+	<false/>
+	<key>VPages</key>
+	<integer>8</integer>
+	<key>WindowInfo</key>
+	<dict>
+		<key>CurrentSheet</key>
+		<integer>0</integer>
+		<key>ExpandedCanvases</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Canvas 1</string>
+			</dict>
+		</array>
+		<key>Frame</key>
+		<string>{{-128, 108}, {2597, 1438}}</string>
+		<key>ListView</key>
+		<true/>
+		<key>OutlineWidth</key>
+		<integer>142</integer>
+		<key>RightSidebar</key>
+		<false/>
+		<key>ShowRuler</key>
+		<true/>
+		<key>Sidebar</key>
+		<true/>
+		<key>SidebarWidth</key>
+		<integer>159</integer>
+		<key>VisibleRegion</key>
+		<string>{{-2974, 32}, {9636, 5196}}</string>
+		<key>Zoom</key>
+		<real>0.25</real>
+		<key>ZoomValues</key>
+		<array>
+			<array>
+				<string>Canvas 1</string>
+				<real>0.25</real>
+				<real>0.5</real>
+			</array>
+		</array>
+	</dict>
+</dict>
+</plist>
