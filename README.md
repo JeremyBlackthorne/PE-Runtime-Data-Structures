@@ -1,4 +1,6 @@
+<head>
 <meta name="twitter:image" content="https://github.com/JeremyBlackthorne/PE-Runtime-Data-Structures/blob/master/PE-Runtime.jpg" />
+</head>
 <p align="center">
 <img src="https://github.com/JeremyBlackthorne/PE-Runtime-Data-Structures/blob/master/PE-Runtime.jpg" width=555 height=800/>
 </p>
