@@ -3,7 +3,6 @@
 	<meta name="twitter:card" content="player" />
 	<meta name="twitter:description" content="This is a sample video. When you implement, make sure all links are secure." />
 	<meta name="twitter:image" content="https://github.com/JeremyBlackthorne/PE-Runtime-Data-Structures/blob/master/PE-Runtime.jpg" />
-
 	<meta name="twitter:player:width" content="480" />
 	<meta name="twitter:player:height" content="480" />
 </head>
