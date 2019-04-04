@@ -5,7 +5,7 @@
 
 Originally posted by me in 2013: http://uncomputable.blogspot.com/2013/08/pe-runtime-data-structures-v1.html, just migrating it to a better home.
 
-This is a diagram of PE runtime data structures created using WinDbg and OmniGraffle. 
+This is a diagram of PE runtime data structures created using WinDbg and OmniGraffle. I have included jpg and PDF versions in the repository.
 
 I was inspired by Ero Carrera's [1] diagrams and Corkami [2]. I made this diagram because I was teaching myself Windows data structures and was unsatisfied with what was out there. The information for these structures was obtained from WinDbg and Windows Internals 6 by Russinovich, Solomon, and Ionescu [3].
 
